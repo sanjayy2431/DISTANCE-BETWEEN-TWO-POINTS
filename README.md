@@ -15,6 +15,10 @@ using the print function, display the distance between the two points.
 End the program.
 ### PROGRAM:
 ```
+#Program to find the distance between two points
+#Developed by: V.sanjay
+#Regsiter number: 212223230188
+
 import math
 x_2=4
 x_1=10
@@ -28,8 +32,8 @@ print(f'{e:.2f}')
 
 
 ### OUTPUT:
+![Screenshot 2024-04-02 195305](https://github.com/sanjayy2431/DISTANCE-BETWEEN-TWO-POINTS/assets/149365143/08c2f6cb-49e5-45a2-a301-84b8c1d33a15)
 
-![Screenshot 2024-03-09 094426](https://github.com/sanjayy2431/DISTANCE-BETWEEN-TWO-POINTS/assets/149365143/de1d6c22-54bd-40f5-bd3a-b7b01f81fa6c)
 
 
 
