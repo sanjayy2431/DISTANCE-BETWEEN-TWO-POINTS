@@ -17,7 +17,7 @@ End the program.
 ```
 #Program to find the distance between two points
 #Developed by: V.sanjay
-#Regsiter number: 212223230188
+#Register number: 212223230188
 
 import math
 x_2=4
@@ -32,7 +32,8 @@ print(f'{e:.2f}')
 
 
 ### OUTPUT:
-![Screenshot 2024-04-02 195305](https://github.com/sanjayy2431/DISTANCE-BETWEEN-TWO-POINTS/assets/149365143/08c2f6cb-49e5-45a2-a301-84b8c1d33a15)
+![image](https://github.com/sanjayy2431/DISTANCE-BETWEEN-TWO-POINTS/assets/149365143/0f05371b-e5a2-446a-b605-be9c126827a0)
+
 
 
 
