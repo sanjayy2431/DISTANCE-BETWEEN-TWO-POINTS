@@ -14,11 +14,11 @@ using the print function, display the distance between the two points.
 ### Step 5: 
 End the program.
 ### PROGRAM:
-```
-#Program to find the distance between two points
-#Developed by: V.sanjay
-#Register number: 212223230188
 
+## Program to find the distance between two points
+## Developed by: V.sanjay
+## Register number: 212223230188
+```
 import math
 x_2=4
 x_1=10
@@ -32,8 +32,8 @@ print(f'{e:.2f}')
 
 
 ### OUTPUT:
-![image](https://github.com/sanjayy2431/DISTANCE-BETWEEN-TWO-POINTS/assets/149365143/0f05371b-e5a2-446a-b605-be9c126827a0)
 
+![alt text](image.png)
 
 
 
